@@ -5,7 +5,7 @@
 
 ## :sassy_man:  About me
 - Bachlor's in Data Science from `Superior University` | Data Scientist (ML, DL, NLP) | Big Data
-- Intresting in `Data Scientist/Analyst`, Big Data, Proficient in Data Science with focus on challenging businesses problems.
+- Interested in `Data Scientist/Analyst`, Big Data, Proficient in Data Science with focus on challenging businesses problems.
 - Resume Link https://drive.google.com/file/d/1BvYk564-X2HTZhOG2nS09VEkdLfuw8Ge/view?usp=sharing
 ### Technology Stacks:
 - Core/In-depth/Practical Knowledge in:
